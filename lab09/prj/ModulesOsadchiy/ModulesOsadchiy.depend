@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680940575 source:c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab09\prj\modulesosadchiy\main.cpp
+	"ModulesOsadchiy.h"
+	<iostream>
+	<clocale>
+	<iomanip>
+	<cmath>
+	<bitset>
+	<main.h>
+
+1677665795 c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab08\pjr\modulesosadchiy\main.h
+
+1680846575 c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab09\prj\modulesosadchiy\modulesosadchiy.h
+
