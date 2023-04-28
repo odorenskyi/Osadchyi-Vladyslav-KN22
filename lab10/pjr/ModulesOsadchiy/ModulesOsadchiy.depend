@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1677573607 source:c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab08\pjr\modulesosadchiy\modulesosadchiy.cpp
+	"main.h"
+	<math.h>
+
+1677662195 c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab08\pjr\modulesosadchiy\main.h
+
+1682659008 source:c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab10\pjr\modulesosadchiy\modulesosadchiy.cpp
+	"main.h"
+	<math.h>
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<clocale>
+	<time.h>
+	<map>
+	<unordered_map>
+	<bitset>
+
+1682603519 c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab10\pjr\modulesosadchiy\main.h
+	<string>
+

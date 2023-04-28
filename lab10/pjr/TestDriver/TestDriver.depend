@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682659711 source:c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab10\pjr\testdriver\main.cpp
+	<iostream>
+	<main.h>
+	<string>
+
+1682603519 c:\users\Константин Осадчий\desktop\bmpt\osadchyi-vladyslav-kn22\lab10\pjr\modulesosadchiy\main.h
+	<string>
+
