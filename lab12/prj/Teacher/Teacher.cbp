@@ -13,7 +13,12 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="../ClassLab12Osadchiy" />
 				</Compiler>
+				<Linker>
+					<Add library="../ClassLab12Osadchiy/bin/Debug/libClassLab12Osadchiy.a" />
+					<Add directory="../ClassLab12Osadchiy/bin/Debug" />
+				</Linker>
 			</Target>
 			<Target title="Release">
 				<Option output="bin/Release/Teacher" prefix_auto="1" extension_auto="1" />
@@ -22,9 +27,11 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="../ClassLab12Osadchiy" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
+					<Add directory="../ClassLab12Osadchiy/bin/Debug" />
 				</Linker>
 			</Target>
 		</Build>
